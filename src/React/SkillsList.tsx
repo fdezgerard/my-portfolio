@@ -48,7 +48,7 @@ const SkillsList = () => {
      "Optimización y escalabilidad",
    ],
    "DevOps & Herramientas": [
-     "Control de versiones con Git",
+     "Control de versiones con Git y GitHub",
      "Docker y contenedores",
      "Testing y debugging",
    ],
